@@ -15,7 +15,7 @@ app.use(cors());
 
 // Database Conection With MongoDB
 mongoose.connect(
-  "mongodb+srv://mn102560_db_user:KhrFlTkvXvUSMAgi@cluster0.jcvzqey.mongodb.net/Ghazl"
+  "mongodb+srv://mn102560_db_user:u6JNoiURYUcfyFTx@cluster0.jcvzqey.mongodb.net/Ghazl"
 );
 
 // API Creation
